@@ -1,2 +1,2 @@
 # Blind-75
-Solution to Blind-75 Leetcode List in Golang
+Solution to Blind-75 Leetcode List 
